@@ -8,7 +8,7 @@ from .modules import Atom
 
 
 
-class StableEncoder:
+class Stable:
 
     all_elements = ['Ag', 'Al', 'As', 'Au', 'Bi', 'Cd', 'Co', 'Cr', 'Cu', 'Fe', 'Ga', 'Ge', 'Hf', 'Hg', 'In', 'Ir', 'Mg', 'Mn', 'Mo', 'Nb', 'Ni', 'Os', 'Pb', 'Pd', 'Pt', 'Re', 'Rh', 'Ru', 'Sb', 'Sc', 'Si', 'Sn', 'Ta', 'Te', 'Ti', 'V', 'W', 'Y', 'Zn', 'Zr']
 
