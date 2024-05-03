@@ -41,6 +41,6 @@ print(matrix)
 - **Predictive Modeling**: train machine learning models to predict various properties of HEAs.
 - **Analysis Tools**: analyze model performance and interpret results to gain insights into HEA behavior.
 
-## License
+## License 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
