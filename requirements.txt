@@ -1,0 +1,4 @@
+chemformula
+pandas
+openpyxl
+scipy
