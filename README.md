@@ -26,10 +26,10 @@ You can install this package in Google Colab using the following commands:
 Here's a quick example of how to vectorize a composition of a stable high-enthropy alloy: 
 
 ```python
-from heaexpress.encoders import StableEncoder
+from heaexpress.encoders import Stable
 
 composition = 'Co1Cr1Fe1Mn1Ni1'
-encoder = StableEncoder(density=10)
+encoder = Stable(density=10)
 matrix = encoder.to_matrix(composition)
 print(matrix)
 ```
